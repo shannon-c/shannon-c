@@ -24,7 +24,7 @@
  > 
 > 📜 Over 50 hackathon projects 
  > 
-> 🔑 106 Private Repositories  
+> 🔑 77 Private Repositories  
 
 <!--END_SECTION:waka-->
 
