@@ -14,17 +14,17 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183705%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My Personal Achievement** 
 
-> 🏆 112 Contributions in the Year 2021
+> 🏆 Won 17 hackathons during 2020-2021 
  > 
 > 📦 58.8 kB Used in Github's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Intern at Google and Intel Malaysia
  > 
-> 📜 106 Public Repositories 
+> 📜 Over 50 hackathon projects 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 106 Private Repositories  
 
 <!--END_SECTION:waka-->
 
