@@ -1,6 +1,5 @@
 ## Hi, I'm Shannon👩🏻👋
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
-[![Open Source Love [] (https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<img src="https://user-images.githubusercontent.com/73507495/106545955-4cc41600-6545-11eb-880f-1a1ef5569b09.JPG">
 
 - 🔭 I’m a full stack developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community
 - 👯 I’m looking to collaborate with others peoples
@@ -9,8 +8,6 @@
 - 💬 Ask me anything
 - 🌱 I’m currently learning Blockchain technology and image recognition using Keras
 
-## :pushpin: My GitHub Stats
-[![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
