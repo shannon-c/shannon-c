@@ -3,7 +3,7 @@
 
 - 🔭 I’m a full stack developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community
 - 👯 I’m looking to collaborate with others peoples
-- 📫 How to reach me: ![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/shannon.n_c%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
+- 📫 How to reach me: ![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 - 😄 Pronouns: She/Her
 - 💬 Ask me anything
 - 🌱 I’m currently learning Blockchain technology and machine learning
