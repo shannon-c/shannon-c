@@ -1,5 +1,5 @@
 ## Hi, I'm Shannon👩🏻👋
-<img src="https://user-images.githubusercontent.com/73507495/106545955-4cc41600-6545-11eb-880f-1a1ef5569b09.JPG">
+<img src="https://i.postimg.cc/bYtNtPV8/Welcome-Back-to-Sandy-Spring.png">
 
 - 🔭 I’m a student who is passionate about making open-source more accessible, creating technology to elevate people, and building community
 - 👯 I’m looking to collaborate with others peoples
