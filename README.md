@@ -1,7 +1,7 @@
 ## Hi, I'm Shannon👩🏻👋
 <img src="https://user-images.githubusercontent.com/73507495/106545955-4cc41600-6545-11eb-880f-1a1ef5569b09.JPG">
 
-- 🔭 I’m a full stack developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community
+- 🔭 I’m a student who is passionate about making open-source more accessible, creating technology to elevate people, and building community
 - 👯 I’m looking to collaborate with others peoples
 - 📫 How to reach me: ![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)
 - 😄 Pronouns: She/Her
@@ -20,11 +20,8 @@
  > 
 > 📦 58.8 kB Used in Github's Storage 
  > 
-> 💼 Intern at Google and Intel Malaysia
- > 
-> 📜 Over 50 hackathon projects 
- > 
-> 🔑 77 Private Repositories  
+> 📜 Over 30 hackathon projects 
+
 
 <!--END_SECTION:waka-->
 
@@ -64,6 +61,6 @@
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
-## :desktop_computer: My Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshaa2000&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
