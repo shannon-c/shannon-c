@@ -1,5 +1,8 @@
 ## Hi, I'm Shannon👩🏻👋
 <img src="https://i.postimg.cc/bYtNtPV8/Welcome-Back-to-Sandy-Spring.png">
+🚀 `Check out my supercool metaverse projects, spunky apps on Glitch!` 🚀
+
+## https://glitch.com/@shannonchan17
 
 - 🔭 I’m a student who is passionate about making open-source more accessible, creating technology to elevate people, and building community
 - 👯 I’m looking to collaborate with others peoples
